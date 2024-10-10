@@ -1,0 +1,18 @@
+{
+  "name": "api-forum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": ["api","forum","DDD"],
+  "author": "Fabio Brasileiro",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.2"
+  }
+}

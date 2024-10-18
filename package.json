@@ -6,7 +6,11 @@
     "test": "vitest run",
     "test:watch": "vitest"
   },
-  "keywords": ["api","forum","DDD"],
+  "keywords": [
+    "api",
+    "forum",
+    "DDD"
+  ],
   "author": "Fabio Brasileiro",
   "license": "MIT",
   "description": "",
@@ -14,5 +18,8 @@
     "@types/node": "^22.7.5",
     "typescript": "^5.6.3",
     "vitest": "^2.1.2"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13"
   }
 }
